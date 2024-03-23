@@ -26,7 +26,7 @@ This version of SpeakHub, is an old version before it was sold, it is currently 
 
 To install HubCore, follow these simple steps:
 
-1. Download the installation package from [download](https://github.com/Nowacho/SpeakHub/releases).
+1. Download the installation package from [download](https://github.com/Sdeyy/HubCore/releases).
 2. Follow the instructions provided in the README file included in the package.
 3. Once installed, access the administrative interface using default or custom credentials.
 
