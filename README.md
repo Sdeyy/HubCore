@@ -1,4 +1,4 @@
-# SpeakHub Old Version
+# SpeakHub Version 1.1.6
 
 This version of SpeakHub, is an old version before it was sold, it is currently obsolete and with multiple bugs, other than that, the HubCore runs perfect.
 
